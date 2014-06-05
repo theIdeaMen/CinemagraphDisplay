@@ -1,0 +1,26 @@
++V||1
+0V||1
+5-Pin Regulator||5
+A4_Template_r00||0
+ATSAM3S1AB-AU||48
+ATSAM3S1BB-AU||64
+Battery Connector||2
+CAP||2
+CAP POL||2
+Cortex-M Debug||10
+Crystal||2
+Ferrite Bead||2
+FT230X||16
+Header Pin||1
+Inductor||2
+MCP73831/2||5
+NFET||3
+Off Page||1
+On Page||1
+R1||2
+R1V||3
+S1D13781||100
+Schottky||2
+USB||4
+Varistor||2
+Zener||2
