@@ -1,0 +1,20 @@
+Back Annotation Results Report
+------------------------------
+
+Report File    : C:\Users\Duff\SkyDrive\Projects\CinemagraphDisplay\DesignSpark\Cinemagraph_Display (PCB - Back Annotation Results Report).txt
+Report Written : Monday, June 09, 2014
+Project Path   : C:\Users\Duff\SkyDrive\Projects\CinemagraphDisplay\DesignSpark\Cinemagraph_Display.prj
+Design Path    : C:\Users\Duff\SkyDrive\Projects\CinemagraphDisplay\DesignSpark\Cinemagraph_Display.pcb
+Design Title   : 
+Created        : 6/9/2014 4:49:06 PM
+Last Saved     : 6/9/2014 5:28:34 PM
+Editing Time   : 39 min
+Units          : mil (precision 0)
+
+Back Annotate renames from the PCB design to all Schematic designs in project "Cinemagraph_Display".
+
+Error: Could not find  Component " XTAL2".
+Error: Could not find  Component " XTAL2".
+
+
+End Of Report.

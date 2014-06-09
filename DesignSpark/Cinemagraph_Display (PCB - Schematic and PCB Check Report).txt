@@ -1,0 +1,19 @@
+Schematic and PCB Check Report
+------------------------------
+
+Report File    : C:\Users\Duff\SkyDrive\Projects\CinemagraphDisplay\DesignSpark\Cinemagraph_Display (PCB - Schematic and PCB Check Report).txt
+Report Written : Monday, June 09, 2014
+Project Path   : C:\Users\Duff\SkyDrive\Projects\CinemagraphDisplay\DesignSpark\Cinemagraph_Display.prj
+Design Path    : C:\Users\Duff\SkyDrive\Projects\CinemagraphDisplay\DesignSpark\Cinemagraph_Display.pcb
+Design Title   : 
+Created        : 6/9/2014 4:49:06 PM
+Last Saved     : 6/9/2014 5:28:34 PM
+Editing Time   : 40 min
+Units          : mil (precision 0)
+
+
+Checking integrity of Schematic "C:\Users\Duff\SkyDrive\Projects\CinemagraphDisplay\DesignSpark\Cinemagraph_Display.prj" with PCB "C:\Users\Duff\SkyDrive\Projects\CinemagraphDisplay\DesignSpark\Cinemagraph_Display.pcb"
+==========================================================================================================================================================================================================================
+
+
+End Of Report.

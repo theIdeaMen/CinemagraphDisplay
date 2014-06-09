@@ -1,0 +1,18 @@
+Back Annotation Renames Report
+------------------------------
+
+Report File    : C:\Users\Duff\SkyDrive\Projects\CinemagraphDisplay\DesignSpark\Cinemagraph_Display (PCB - Back Annotation Renames Report).txt
+Report Written : Monday, June 09, 2014
+Project Path   : C:\Users\Duff\SkyDrive\Projects\CinemagraphDisplay\DesignSpark\Cinemagraph_Display.prj
+Design Path    : C:\Users\Duff\SkyDrive\Projects\CinemagraphDisplay\DesignSpark\Cinemagraph_Display.pcb
+Design Title   : 
+Created        : 6/9/2014 4:49:06 PM
+Last Saved     : 6/9/2014 5:17:44 PM
+Editing Time   : 28 min
+Units          : mil (precision 0)
+
+Outstanding PCB renames awaiting back annotation to the Schematics design.
+
+Change Value on Component 'XTAL2' - 'Value'.
+
+End Of Report.
