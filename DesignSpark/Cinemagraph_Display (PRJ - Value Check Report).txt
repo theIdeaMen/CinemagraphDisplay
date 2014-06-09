@@ -1,0 +1,67 @@
+Value Check Report
+------------------
+
+Report File    : C:\Users\Duff\SkyDrive\Projects\CinemagraphDisplay\DesignSpark\Cinemagraph_Display (PRJ - Value Check Report).txt
+Report Written : Monday, June 09, 2014
+Design Path    : C:\Users\Duff\SkyDrive\Projects\CinemagraphDisplay\DesignSpark\Cinemagraph_Display.prj
+Design Title   : 
+Created        : 
+Last Saved     : 
+Editing Time   : 0 min
+Units          : thou (precision 0)
+
+
+Errors Found
+============
+
+Inductor L1 value not found
+Inductor L3 value not found
+Resistor R2 value 27 0.25W incorrectly formatted
+Resistor R3 value 27 0.25W incorrectly formatted
+Resistor R6 value 100 0.125W incorrectly formatted
+
+Component Values Used
+=====================
+
+Component C1 value output as 4.7uF
+Component C2 value output as 20pF
+Component C3 value output as 10000pF
+Component C4 value output as 20pF
+Component C5 value output as 4.7uF
+Component C6 value output as 4.7uF
+Component C7 value output as 10uF
+Component C8 value output as 4.7uF
+Component C9 value output as 2.2uF
+Component C10 value output as 10uF
+Component C11 value output as 2.2uF
+Component C12 value output as 13pF
+Component C13 value output as 13pF
+Component C14 value output as 10uF
+Component C15 value output as 0.1uF
+Component C16 value output as 2.2uF
+Component C17 value output as 2.2uF
+Component C18 value output as 0.1uF
+Component C19 value output as 0.1uF
+Component C20 value output as 0.1uF
+Component C21 value output as 0.1uF
+Component C22 value output as 2.2uF
+Component C23 value output as 2.2uF
+Component C24 value output as 0.1uF
+Component C25 value output as 0.1uF
+Component C26 value output as 0.1uF
+Component C27 value output as 0.1uF
+Component C28 value output as 0.1uF
+Component C29 value output as 0.1uF
+Component C30 value output as 1uF
+Component C31 value output as 10000pF
+Component C32 value output as 0.1uF
+Component R1 value output as 100k
+Component R4 value output as 2.7k
+Component R5 value output as 6.4
+Component R7 value output as 8.2k
+Component R8 value output as 6.8k
+Component R9 value output as 1k
+Component R10 value output as 1k
+Component R11 value output as 10k
+
+End Of Report.

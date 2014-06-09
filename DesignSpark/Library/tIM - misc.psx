@@ -10,10 +10,12 @@ ATSAM3S1BB-AU||64
 Battery Connector||4
 CONN_54_ZIF||54
 Cortex-M Debug Header||10
+Crystal - 4-pin||4
 CRYSTAL-SMD-4.9X1.8-2PIN||2
 CRYSTAL-SMD-10.5X4.8-2PIN||2
 FT230X||16
 microSD Socket||12
+Oscillator - 4-pin||4
 S1D13781||100
 SOT-23-3||3
 SOT-23-5||5

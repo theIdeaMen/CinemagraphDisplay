@@ -10,6 +10,7 @@ CAP||2
 CAP POL||2
 Cortex-M Debug||10
 Crystal||2
+Crystal - 4 pin||4
 Ferrite Bead||2
 FT230X||16
 Header Pin||1
@@ -19,6 +20,7 @@ microSD||12
 NFET||3
 Off Page||1
 On Page||1
+Oscillator - 4 pin||4
 PB SPST-NO||4
 R1||2
 R1V||3
