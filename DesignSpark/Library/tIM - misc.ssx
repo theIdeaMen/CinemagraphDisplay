@@ -15,9 +15,11 @@ FT230X||16
 Header Pin||1
 Inductor||2
 MCP73831/2||5
+microSD||12
 NFET||3
 Off Page||1
 On Page||1
+PB SPST-NO||4
 R1||2
 R1V||3
 S1D13781||100

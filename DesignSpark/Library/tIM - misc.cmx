@@ -31,16 +31,20 @@ BZX84C20||#SOT=3||@Value=20V||@Digi-Key=BZX84C20FSCT-ND||@Manufacturer_Part_Numb
 Cortex-M Debug Header||#CONN=10||@Digi-Key=S9015E-05-ND||@Manufacturer_Part_Number=GRPB052VWVN-RC||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
 CRYSTAL4.9X1.8||#CRYSTAL-SMD=2||@Value=32.768KHZ 12.5PF||@Digi-Key=XC1658CT-ND||@Manufacturer_Part_Number=ECS-.327-12.5-39-TR||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
 CRYSTAL10.5X4.8||#CRYSTAL-SMD=2||@Value=18.432MHZ 18PF||@Digi-Key=XC1285CT-ND||@Manufacturer_Part_Number=ECS-184-18-5PX-TR||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
+External IO Header||#SIP=5||@Digi-Key=S6103-ND||@Manufacturer_Part_Number=PPTC051LFBN-RC||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
 Ferrite Bead||#SM=2||@Digi-Key=445-2206-1-ND||@Manufacturer_Part_Number=MPZ2012S601A||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
 FT230X||#SSOP=16||@Digi-Key=768-1135-1-ND||@Manufacturer_Part_Number=FT230XS-R||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
 IRLML6344T||#SOT=3||@Digi-Key=IRLML6344TRPBFCT-ND||@Manufacturer_Part_Number=IRLML6344TRPBF||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
 LM3410||#SOT=5||@Digi-Key=ADP2108AUJZ-3.3-R7CT-ND||@Manufacturer_Part_Number=ADP2108AUJZ-3.3-R7||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
 MCP73831/2||#SOT=5||@Digi-Key=MCP73831T-2ATI/OTCT-ND||@Manufacturer_Part_Number=MCP73831T-2ATI/OT||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
+microSD||#SM=12||@Digi-Key=732-3819-1-ND||@Manufacturer_Part_Number=693071010811||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
 MMA8652FC||#DFN=10||@Digi-Key=MMA8652FCR1CT-ND||@Manufacturer_Part_Number=MMA8652FCR1||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
 Off Page
 On Page
 S1D13781||#LQFP=100||@Digi-Key=S1D13781F00A100-ND||@Manufacturer_Part_Number=S1D13781F00A100||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
+Tactile SW SPST-NO||#SM=5||@Digi-Key=401-1427-1-ND||@Manufacturer_Part_Number=KMR221GLFS||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
 Template
 TPS62207||#SOT=5||@Digi-Key=296-17197-1-ND||@Manufacturer_Part_Number=TPS62207DBVT||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
+UART Header||#SIP=4||@Digi-Key=S7002-ND||@Manufacturer_Part_Number=PPTC041LFBN-RC||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
 USBSMD||#MICROB=11||@Digi-Key=609-4618-2-ND||@Manufacturer_Part_Number=10118194-0001LF||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
 Varistor||#SM=2||@Digi-Key=CG0603MLC-05ECT-ND||@Manufacturer_Part_Number=CG0603MLC-05E||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
