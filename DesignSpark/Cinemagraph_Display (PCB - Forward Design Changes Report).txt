@@ -2,17 +2,221 @@ Forward Design Changes Report
 -----------------------------
 
 Report File    : C:\Users\Duff\SkyDrive\Projects\CinemagraphDisplay\DesignSpark\Cinemagraph_Display (PCB - Forward Design Changes Report).txt
-Report Written : Monday, June 09, 2014
+Report Written : Tuesday, June 10, 2014
 Project Path   : C:\Users\Duff\SkyDrive\Projects\CinemagraphDisplay\DesignSpark\Cinemagraph_Display.prj
 Design Path    : C:\Users\Duff\SkyDrive\Projects\CinemagraphDisplay\DesignSpark\Cinemagraph_Display.pcb
 Design Title   : 
 Created        : 6/9/2014 4:49:06 PM
-Last Saved     : 6/9/2014 5:28:34 PM
-Editing Time   : 40 min
+Last Saved     : 6/10/2014 9:56:08 PM
+Editing Time   : 179 min
 Units          : mil (precision 0)
 
-Added value "Value=32.768KHZ 12.5PF" to component reference "X2".
+Disconnected pin "U1-21" from net "SPCK".
+Disconnected pin "U1-22" from net "N0114!processor!".
+Disconnected pin "U1-27" from net "SPDA".
+Disconnected pin "U1-28" from net "CS0".
+Disconnected pin "U1-55" from net "__CD".
+Disconnected pin "R11-1" from net "SPDA".
+Disconnected pin "R11-2" from net "N0114!processor!".
+Disconnected pin "U6-54" from net "N0002!lcd!".
+Disconnected pin "U6-55" from net "N0001!lcd!".
+Disconnected pin "U6-56" from net "N0000!lcd!".
+Disconnected pin "U6-59" from net "N0003!lcd!".
+Disconnected pin "U6-61" from net "N0004!lcd!".
+Disconnected pin "U6-62" from net "N0005!lcd!".
+Disconnected pin "U6-63" from net "N0006!lcd!".
+Disconnected pin "U6-64" from net "N0007!lcd!".
+Disconnected pin "U6-65" from net "N0008!lcd!".
+Disconnected pin "U6-66" from net "N0009!lcd!".
+Disconnected pin "U6-68" from net "N0010!lcd!".
+Disconnected pin "U6-69" from net "N0011!lcd!".
+Disconnected pin "U6-70" from net "N0012!lcd!".
+Disconnected pin "U6-71" from net "N0013!lcd!".
+Disconnected pin "U6-72" from net "N0014!lcd!".
+Disconnected pin "U6-74" from net "N0015!lcd!".
+Disconnected pin "U6-75" from net "N0016!lcd!".
+Disconnected pin "U6-76" from net "N0017!lcd!".
+Disconnected pin "U6-77" from net "N0018!lcd!".
+Disconnected pin "U6-78" from net "N0019!lcd!".
+Disconnected pin "U6-81" from net "N0020!lcd!".
+Disconnected pin "U6-82" from net "N0021!lcd!".
+Disconnected pin "U6-83" from net "N0022!lcd!".
+Disconnected pin "U6-84" from net "N0023!lcd!".
+Disconnected pin "U6-85" from net "N0024!lcd!".
+Disconnected pin "U6-86" from net "N0025!lcd!".
+Disconnected pin "U6-87" from net "N0026!lcd!".
+Disconnected pin "U6-88" from net "N0027!lcd!".
+Disconnected pin "J4-1" from net "LED-".
+Disconnected pin "J4-2" from net "LED-".
+Disconnected pin "J4-3" from net "LED+".
+Disconnected pin "J4-4" from net "LED+".
+Disconnected pin "J4-8" from net "__RESET".
+Disconnected pin "J4-9" from net "CS0".
+Disconnected pin "J4-10" from net "SPCK".
+Disconnected pin "J4-11" from net "SPDA".
+Disconnected pin "J4-12" from net "N0004!lcd!".
+Disconnected pin "J4-13" from net "N0005!lcd!".
+Disconnected pin "J4-14" from net "N0006!lcd!".
+Disconnected pin "J4-15" from net "N0007!lcd!".
+Disconnected pin "J4-16" from net "N0008!lcd!".
+Disconnected pin "J4-17" from net "N0009!lcd!".
+Disconnected pin "J4-18" from net "N0010!lcd!".
+Disconnected pin "J4-19" from net "N0011!lcd!".
+Disconnected pin "J4-20" from net "N0012!lcd!".
+Disconnected pin "J4-21" from net "N0013!lcd!".
+Disconnected pin "J4-22" from net "N0014!lcd!".
+Disconnected pin "J4-23" from net "N0015!lcd!".
+Disconnected pin "J4-24" from net "N0016!lcd!".
+Disconnected pin "J4-25" from net "N0017!lcd!".
+Disconnected pin "J4-26" from net "N0018!lcd!".
+Disconnected pin "J4-29" from net "N0021!lcd!".
+Disconnected pin "J4-30" from net "N0022!lcd!".
+Disconnected pin "J4-31" from net "N0023!lcd!".
+Disconnected pin "J4-32" from net "N0024!lcd!".
+Disconnected pin "J4-33" from net "N0025!lcd!".
+Disconnected pin "J4-34" from net "N0026!lcd!".
+Disconnected pin "J4-35" from net "N0027!lcd!".
+Disconnected pin "J4-36" from net "N0001!lcd!".
+Disconnected pin "J4-37" from net "N0002!lcd!".
+Disconnected pin "J4-38" from net "N0003!lcd!".
+Disconnected pin "J4-41" from net "3V3".
+Disconnected pin "J4-42" from net "3V3".
+Disconnected pin "J4-52" from net "N0000!lcd!".
+Disconnected pin "J4-28" from net "N0020!lcd!".
+Disconnected pin "J4-27" from net "N0019!lcd!".
+Disconnected pin "J4-53" from net "GND".
+Disconnected pin "J4-54" from net "GND".
 
+Deleted component reference "R11".
+Deleted component reference "J4".
+
+Deleted net "N0114!processor!".
+Deleted net "N0000!lcd!".
+Deleted net "N0001!lcd!".
+Deleted net "N0002!lcd!".
+Deleted net "N0003!lcd!".
+Deleted net "N0004!lcd!".
+Deleted net "N0005!lcd!".
+Deleted net "N0006!lcd!".
+Deleted net "N0007!lcd!".
+Deleted net "N0008!lcd!".
+Deleted net "N0009!lcd!".
+Deleted net "N0010!lcd!".
+Deleted net "N0011!lcd!".
+Deleted net "N0012!lcd!".
+Deleted net "N0013!lcd!".
+Deleted net "N0014!lcd!".
+Deleted net "N0015!lcd!".
+Deleted net "N0016!lcd!".
+Deleted net "N0017!lcd!".
+Deleted net "N0018!lcd!".
+Deleted net "N0019!lcd!".
+Deleted net "N0020!lcd!".
+Deleted net "N0021!lcd!".
+Deleted net "N0022!lcd!".
+Deleted net "N0023!lcd!".
+Deleted net "N0024!lcd!".
+Deleted net "N0025!lcd!".
+Deleted net "N0026!lcd!".
+Deleted net "N0027!lcd!".
+
+Added net "DISP_EN".
+Added net "N0126!lcd!".
+Added net "N0127!lcd!".
+Added net "N0128!lcd!".
+Added net "N0129!lcd!".
+Added net "N0130!lcd!".
+Added net "N0131!lcd!".
+Added net "N0132!lcd!".
+Added net "N0133!lcd!".
+Added net "N0134!lcd!".
+Added net "N0135!lcd!".
+Added net "N0136!lcd!".
+Added net "N0137!lcd!".
+Added net "N0138!lcd!".
+Added net "N0139!lcd!".
+Added net "N0140!lcd!".
+Added net "N0141!lcd!".
+Added net "N0142!lcd!".
+Added net "N0143!lcd!".
+Added net "N0144!lcd!".
+Added net "N0145!lcd!".
+Added net "N0146!lcd!".
+Added net "N0147!lcd!".
+Added net "N0148!lcd!".
+Added net "N0149!lcd!".
+Added net "N0150!lcd!".
+Added net "N0151!lcd!".
+Added net "N0152!lcd!".
+Added net "N0153!lcd!".
+
+Added component reference "J7" of component "62684_40PIN_ZIF", package "SM".
+
+Connected pin "U1-21" to net "DISP_EN".
+Connected pin "U1-27" to net "__CD".
+Connected pin "U6-54" to net "N0128!lcd!".
+Connected pin "U6-55" to net "N0127!lcd!".
+Connected pin "U6-56" to net "N0126!lcd!".
+Connected pin "U6-59" to net "N0153!lcd!".
+Connected pin "U6-61" to net "N0152!lcd!".
+Connected pin "U6-62" to net "N0151!lcd!".
+Connected pin "U6-63" to net "N0150!lcd!".
+Connected pin "U6-64" to net "N0149!lcd!".
+Connected pin "U6-65" to net "N0148!lcd!".
+Connected pin "U6-66" to net "N0147!lcd!".
+Connected pin "U6-68" to net "N0146!lcd!".
+Connected pin "U6-69" to net "N0145!lcd!".
+Connected pin "U6-70" to net "N0144!lcd!".
+Connected pin "U6-71" to net "N0143!lcd!".
+Connected pin "U6-72" to net "N0142!lcd!".
+Connected pin "U6-74" to net "N0141!lcd!".
+Connected pin "U6-75" to net "N0140!lcd!".
+Connected pin "U6-76" to net "N0139!lcd!".
+Connected pin "U6-77" to net "N0138!lcd!".
+Connected pin "U6-78" to net "N0137!lcd!".
+Connected pin "U6-81" to net "N0136!lcd!".
+Connected pin "U6-82" to net "N0135!lcd!".
+Connected pin "U6-83" to net "N0134!lcd!".
+Connected pin "U6-84" to net "N0133!lcd!".
+Connected pin "U6-85" to net "N0132!lcd!".
+Connected pin "U6-86" to net "N0131!lcd!".
+Connected pin "U6-87" to net "N0130!lcd!".
+Connected pin "U6-88" to net "N0129!lcd!".
+Connected pin "J7-1" to net "LED-".
+Connected pin "J7-2" to net "LED+".
+Connected pin "J7-3" to net "GND".
+Connected pin "J7-4" to net "3V3".
+Connected pin "J7-5" to net "N0136!lcd!".
+Connected pin "J7-6" to net "N0135!lcd!".
+Connected pin "J7-7" to net "N0134!lcd!".
+Connected pin "J7-8" to net "N0133!lcd!".
+Connected pin "J7-9" to net "N0132!lcd!".
+Connected pin "J7-10" to net "N0131!lcd!".
+Connected pin "J7-11" to net "N0130!lcd!".
+Connected pin "J7-12" to net "N0129!lcd!".
+Connected pin "J7-13" to net "N0144!lcd!".
+Connected pin "J7-14" to net "N0143!lcd!".
+Connected pin "J7-15" to net "N0142!lcd!".
+Connected pin "J7-16" to net "N0141!lcd!".
+Connected pin "J7-17" to net "N0140!lcd!".
+Connected pin "J7-18" to net "N0139!lcd!".
+Connected pin "J7-19" to net "N0138!lcd!".
+Connected pin "J7-20" to net "N0137!lcd!".
+Connected pin "J7-21" to net "N0152!lcd!".
+Connected pin "J7-22" to net "N0151!lcd!".
+Connected pin "J7-23" to net "N0150!lcd!".
+Connected pin "J7-24" to net "N0149!lcd!".
+Connected pin "J7-25" to net "N0148!lcd!".
+Connected pin "J7-26" to net "N0147!lcd!".
+Connected pin "J7-27" to net "N0146!lcd!".
+Connected pin "J7-28" to net "N0145!lcd!".
+Connected pin "J7-29" to net "GND".
+Connected pin "J7-30" to net "N0153!lcd!".
+Connected pin "J7-31" to net "DISP_EN".
+Connected pin "J7-32" to net "N0127!lcd!".
+Connected pin "J7-33" to net "N0128!lcd!".
+Connected pin "J7-34" to net "N0126!lcd!".
+Connected pin "J7-36" to net "GND".
 
 
 End Of Report.

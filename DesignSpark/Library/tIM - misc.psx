@@ -8,6 +8,7 @@
 ATSAM3S1AB-LQFP||48
 ATSAM3S1BB-AU||64
 Battery Connector||4
+CONN_40_ZIF||44
 CONN_54_ZIF||54
 Cortex-M Debug Header||10
 Crystal - 4-pin||4
