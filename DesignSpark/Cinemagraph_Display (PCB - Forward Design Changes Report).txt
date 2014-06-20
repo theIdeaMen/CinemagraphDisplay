@@ -1,26 +1,25 @@
 Forward Design Changes Report
 -----------------------------
 
-Report File    : C:\Users\Griffin\SkyDrive\Projects\CinemagraphDisplay\DesignSpark\Cinemagraph_Display (PCB - Forward Design Changes Report).txt
-Report Written : Wednesday, June 18, 2014
-Project Path   : C:\Users\Griffin\SkyDrive\Projects\CinemagraphDisplay\DesignSpark\Cinemagraph_Display.prj
-Design Path    : C:\Users\Griffin\SkyDrive\Projects\CinemagraphDisplay\DesignSpark\Cinemagraph_Display.pcb
+Report File    : C:\Users\Duff\SkyDrive\Projects\CinemagraphDisplay\DesignSpark\Cinemagraph_Display (PCB - Forward Design Changes Report).txt
+Report Written : Thursday, June 19, 2014
+Project Path   : C:\Users\Duff\SkyDrive\Projects\CinemagraphDisplay\DesignSpark\Cinemagraph_Display.prj
+Design Path    : C:\Users\Duff\SkyDrive\Projects\CinemagraphDisplay\DesignSpark\Cinemagraph_Display.pcb
 Design Title   : 
 Created        : 6/9/2014 4:49:06 PM
-Last Saved     : 6/18/2014 1:58:58 PM
-Editing Time   : 379 min
+Last Saved     : 6/19/2014 8:27:20 PM
+Editing Time   : 475 min
 Units          : mil (precision 0)
 
-Disconnected pin "J6-3" from net "TCK".
-Disconnected pin "J6-4" from net "TMS".
+Disconnected pin "C20-1" from net "3V3".
+Disconnected pin "C25-1" from net "3V3".
+Disconnected pin "C26-1" from net "3V3".
+Disconnected pin "C27-1" from net "3V3".
 
-Added net "GPIO2".
-Added net "GPIO3".
-
-Connected pin "U1-22" to net "GPIO2".
-Connected pin "U1-28" to net "GPIO3".
-Connected pin "J6-3" to net "GPIO2".
-Connected pin "J6-4" to net "GPIO3".
+Connected pin "C20-1" to net "VDD_1V8".
+Connected pin "C25-1" to net "VDD_1V8".
+Connected pin "C26-1" to net "VDD_1V8".
+Connected pin "C27-1" to net "VDD_1V8".
 
 
 End Of Report.
