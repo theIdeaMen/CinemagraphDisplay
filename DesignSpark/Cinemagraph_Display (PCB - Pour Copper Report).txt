@@ -1,0 +1,15 @@
+Pour Copper Report
+------------------
+
+Report File    : C:\Users\Griffin\SkyDrive\Projects\CinemagraphDisplay\DesignSpark\Cinemagraph_Display (PCB - Pour Copper Report).txt
+Report Written : Wednesday, June 18, 2014
+Project Path   : C:\Users\Griffin\SkyDrive\Projects\CinemagraphDisplay\DesignSpark\Cinemagraph_Display.prj
+Design Path    : C:\Users\Griffin\SkyDrive\Projects\CinemagraphDisplay\DesignSpark\Cinemagraph_Display.pcb
+Design Title   : 
+Created        : 6/9/2014 4:49:06 PM
+Last Saved     : 6/18/2014 1:36:59 PM
+Editing Time   : 361 min
+Units          : mil (precision 0)
+
+
+End Of Report.
