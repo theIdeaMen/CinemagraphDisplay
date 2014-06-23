@@ -2,24 +2,26 @@ Forward Design Changes Report
 -----------------------------
 
 Report File    : C:\Users\Duff\SkyDrive\Projects\CinemagraphDisplay\DesignSpark\Cinemagraph_Display (PCB - Forward Design Changes Report).txt
-Report Written : Thursday, June 19, 2014
+Report Written : Sunday, June 22, 2014
 Project Path   : C:\Users\Duff\SkyDrive\Projects\CinemagraphDisplay\DesignSpark\Cinemagraph_Display.prj
 Design Path    : C:\Users\Duff\SkyDrive\Projects\CinemagraphDisplay\DesignSpark\Cinemagraph_Display.pcb
 Design Title   : 
 Created        : 6/9/2014 4:49:06 PM
-Last Saved     : 6/19/2014 8:27:20 PM
-Editing Time   : 475 min
+Last Saved     : 6/22/2014 7:32:20 PM
+Editing Time   : 598 min
 Units          : mil (precision 0)
 
-Disconnected pin "C20-1" from net "3V3".
-Disconnected pin "C25-1" from net "3V3".
-Disconnected pin "C26-1" from net "3V3".
-Disconnected pin "C27-1" from net "3V3".
+Disconnected pin "C46-1" from net "3V3".
+Disconnected pin "C47-1" from net "3V3".
+Disconnected pin "C48-1" from net "3V3".
+Disconnected pin "C49-1" from net "3V3".
+Disconnected pin "C50-1" from net "3V3".
 
-Connected pin "C20-1" to net "VDD_1V8".
-Connected pin "C25-1" to net "VDD_1V8".
-Connected pin "C26-1" to net "VDD_1V8".
-Connected pin "C27-1" to net "VDD_1V8".
+Connected pin "C46-1" to net "1V5".
+Connected pin "C47-1" to net "1V5".
+Connected pin "C48-1" to net "1V5".
+Connected pin "C49-1" to net "1V5".
+Connected pin "C50-1" to net "1V5".
 
 
 End Of Report.
