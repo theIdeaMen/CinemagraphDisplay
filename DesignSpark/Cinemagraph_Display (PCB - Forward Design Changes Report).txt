@@ -2,36 +2,18 @@ Forward Design Changes Report
 -----------------------------
 
 Report File    : C:\Users\Duff\SkyDrive\Projects\CinemagraphDisplay\DesignSpark\Cinemagraph_Display (PCB - Forward Design Changes Report).txt
-Report Written : Thursday, June 26, 2014
+Report Written : Wednesday, July 02, 2014
 Project Path   : C:\Users\Duff\SkyDrive\Projects\CinemagraphDisplay\DesignSpark\Cinemagraph_Display.prj
 Design Path    : C:\Users\Duff\SkyDrive\Projects\CinemagraphDisplay\DesignSpark\Cinemagraph_Display.pcb
 Design Title   : 
 Created        : 6/9/2014 4:49:06 PM
-Last Saved     : 6/26/2014 9:01:23 PM
-Editing Time   : 779 min
+Last Saved     : 7/2/2014 4:08:29 PM
+Editing Time   : 1094 min
 Units          : mil (precision 0)
 
-Disconnected pin "U1-4" from net "DB7".
-Disconnected pin "U1-5" from net "DB6".
-Disconnected pin "U1-6" from net "DB5".
-Disconnected pin "U1-14" from net "DB4".
-Disconnected pin "U1-15" from net "DB3".
-Disconnected pin "U1-19" from net "DB1".
-Disconnected pin "U1-20" from net "DB0".
-Disconnected pin "U1-23" from net "__CS".
-Disconnected pin "U1-25" from net "__WR".
-Disconnected pin "U1-29" from net "__RD".
+Disconnected pin "J6-5" from net "TDO".
 
-Connected pin "U1-4" to net "__RD".
-Connected pin "U1-5" to net "__WR".
-Connected pin "U1-6" to net "__CS".
-Connected pin "U1-14" to net "DB0".
-Connected pin "U1-15" to net "DB1".
-Connected pin "U1-19" to net "DB3".
-Connected pin "U1-20" to net "DB4".
-Connected pin "U1-23" to net "DB5".
-Connected pin "U1-25" to net "DB6".
-Connected pin "U1-29" to net "DB7".
+Connected pin "J6-5" to net "GND".
 
 
 End Of Report.

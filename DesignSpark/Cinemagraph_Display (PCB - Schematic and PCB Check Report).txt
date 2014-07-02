@@ -2,13 +2,13 @@ Schematic and PCB Check Report
 ------------------------------
 
 Report File    : C:\Users\Duff\SkyDrive\Projects\CinemagraphDisplay\DesignSpark\Cinemagraph_Display (PCB - Schematic and PCB Check Report).txt
-Report Written : Thursday, June 26, 2014
+Report Written : Wednesday, July 02, 2014
 Project Path   : C:\Users\Duff\SkyDrive\Projects\CinemagraphDisplay\DesignSpark\Cinemagraph_Display.prj
 Design Path    : C:\Users\Duff\SkyDrive\Projects\CinemagraphDisplay\DesignSpark\Cinemagraph_Display.pcb
 Design Title   : 
 Created        : 6/9/2014 4:49:06 PM
-Last Saved     : 6/26/2014 9:01:23 PM
-Editing Time   : 778 min
+Last Saved     : 7/2/2014 4:08:29 PM
+Editing Time   : 1094 min
 Units          : mil (precision 0)
 
 
