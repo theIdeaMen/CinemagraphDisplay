@@ -1,0 +1,60 @@
+Component Report
+----------------
+
+Report Written :   Sunday, July 13, 2014  18:31
+Project Path   :   C:\Users\Duff\SkyDrive\Projects\CinemagraphDisplay\DesignSpark\Cinemagraph_Display.prj
+Design Path    :   C:\Users\Duff\SkyDrive\Projects\CinemagraphDisplay\DesignSpark\Cinemagraph_Display.pcb
+Design Title   :
+Created        :   6/9/2014 4:49:06 PM
+Last Saved     :   7/13/2014 6:31:15 PM
+Editing Time   :   1553 min
+Units          :   mil (precision 0)
+
+Digi-Key            Qty       Component           Value
+-------------------------------------------------------
+311-1142-1-ND       1         0.1uF               0.1uF 16V           
+490-1532-1-ND       23        0.1uF               0.1uF 16V           
+311-1.00FRCT-ND     2         1k ohm              1k 0.125W           
+311-1365-1-ND       1         1uF                 1uF 16V             
+587-2903-6-ND       1         1uH                 1uH                 
+587-2402-1-ND       1         2.2uF               2.2uF 50V           
+445-1420-1-ND       9         2.2uF               2.2uF 16V           
+P2.7KACT-ND         1         2.7k ohm            2.7k 0.125W         
+1276-1065-1-ND      4         4.7uF               4.7uF 16V           
+311-6.80KCRCT-ND    1         6.8k ohm            6.8k 0.125W         
+541-6.04FFCT-ND     1         6.04 ohm            6.04 0.25W          
+P8.20KCCT-ND        1         8.2k ohm            8.2k 0.125W         
+399-8013-1-ND       3         10uF                10uF 16V            
+445-6762-1-ND       1         10uH                10uH                
+399-9172-1-ND       2         13pF                13pF 50V            
+399-9987-1-ND       2         20pF                20pF 16V            
+1276-5198-1-ND      2         27 ohm              27 0.125W           
+P100CCT-ND          1         100 ohm             100 0.125W          
+P100KCCT-ND         1         100k ohm            100k 0.125W         
+399-7999-1-ND       2         10000pF             10000pF 16V         
+609-1195-1-ND       1         62684_40PIN_ZIF                         
+ADP2108AUJZ-3.3-R7CT-ND1         ADP2108                                 
+ATSAM3S1BB-AU-ND    1         ATSAM3S1BB-AU                           
+BAT54FSCT-ND        1         BAT54                                   
+455-1749-1-ND       1         Battery Connector                       
+BZX84C20FSCT-ND     1         BZX84C20            20V                 
+S9015E-05-ND        1         Cortex-M Debug Header                    
+XC1137CT-ND         1         CRYSTAL4PIN         16.000 MHz          
+XC1658CT-ND         1         CRYSTAL4.9X1.8      32.768KHZ 12.5PF    
+S6103-ND            1         External IO Header                      
+445-2206-1-ND       1         Ferrite Bead                            
+IRLML6344TRPBFCT-ND 2         IRLML6344T                              
+ADP2108AUJZ-3.3-R7CT-ND1         LM3410                                  
+MCP73831T-2ATI/OTCT-ND1         MCP73831/2                              
+732-3819-1-ND       1         microSD                                 
+MMA8652FCR1CT-ND    1         MMA8652FC                               
+336-2888-ND         1         Oscillator - 4-pin  12.000 MHz          
+S1D13781F00A100-ND  1         S1D13781                                
+401-1427-1-ND       2         Tactile SW SPST-NO                      
+                    1         tIM Logo                                
+296-17777-1-ND      1         TPS79915                                
+S7002-ND            1         UART Header                             
+609-4618-1-ND       1         USBSMD                                  
+CG0603MLC-05ECT-ND  2         Varistor                                
+-------------------------------------------------------
+                    87

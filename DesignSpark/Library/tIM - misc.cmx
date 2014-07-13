@@ -28,7 +28,7 @@ ADP2108||#SOT=5||@Digi-Key=ADP2108AUJZ-3.3-R7CT-ND||@Manufacturer_Part_Number=AD
 ATSAM3S1AB-AU||#LQFP=48||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
 ATSAM3S1BB-AU||#LQFP=64||@Digi-Key=ATSAM3S1BB-AU-ND||@Manufacturer_Part_Number=ATSAM3S1BB-AU||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
 BAT54||#SOT=3||@Digi-Key=BAT54FSCT-ND||@Manufacturer_Part_Number=BAT54||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
-Battery Connector||#USER=4||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
+Battery Connector||#USER=4||@Digi-Key=455-1749-1-ND||@Manufacturer_Part_Number=S2B-PH-SM4-TB(LF)(SN)||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
 BZX84C20||#SOT=3||@Value=20V||@Digi-Key=BZX84C20FSCT-ND||@Manufacturer_Part_Number=BZX84C20||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
 Cortex-M Debug Header||#CONN=10||@Digi-Key=S9015E-05-ND||@Manufacturer_Part_Number=GRPB052VWVN-RC||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
 CRYSTAL4PIN||#SM=4||@Value=16.000 MHz||@Digi-Key=XC1137CT-ND||@Manufacturer_Part_Number=ECS-160-20-33-TR||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
@@ -44,12 +44,13 @@ microSD||#SM=12||@Digi-Key=732-3819-1-ND||@Manufacturer_Part_Number=693071010811
 MMA8652FC||#DFN=10||@Digi-Key=MMA8652FCR1CT-ND||@Manufacturer_Part_Number=MMA8652FCR1||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
 Off Page
 On Page
-Oscillator - 4-pin||#SM=4||@Value=20.000 MHz||@Digi-Key=CTX273LVCT-ND||@Manufacturer_Part_Number=CB3LV-3C-20M0000||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
+Oscillator - 4-pin||#SM=4||@Value=12.000 MHz||@Digi-Key=336-2888-ND||@Manufacturer_Part_Number=501HCA12M0000CAF||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
 S1D13781||#LQFP=100||@Digi-Key=S1D13781F00A100-ND||@Manufacturer_Part_Number=S1D13781F00A100||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
 Tactile SW SPST-NO||#SM=5||@Digi-Key=401-1427-1-ND||@Manufacturer_Part_Number=KMR221GLFS||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
 Template
+tIM Logo||#USER=0||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
 TPS62207||#SOT=5||@Digi-Key=296-17197-1-ND||@Manufacturer_Part_Number=TPS62207DBVT||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
 TPS79915||#SOT=5||@Digi-Key=296-17777-1-ND||@Manufacturer_Part_Number=TPS79915DDCR||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
 UART Header||#SIP=4||@Digi-Key=S7002-ND||@Manufacturer_Part_Number=PPTC041LFBN-RC||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
-USBSMD||#MICROB=11||@Digi-Key=609-4618-2-ND||@Manufacturer_Part_Number=10118194-0001LF||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
-Varistor||#SM=2||@Digi-Key=CG0603MLC-05ECT-ND||@Manufacturer_Part_Number=CG0603MLC-05E||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
+USBSMD||#MICROB=11||@Digi-Key=609-4618-1-ND||@Manufacturer_Part_Number=10118194-0001LF||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
+Varistor||#0603=2||@Digi-Key=CG0603MLC-05ECT-ND||@Manufacturer_Part_Number=CG0603MLC-05E||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=

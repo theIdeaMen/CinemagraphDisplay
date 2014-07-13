@@ -1,0 +1,182 @@
+Update Components Report
+------------------------
+
+Report File    : C:\Users\Duff\SkyDrive\Projects\CinemagraphDisplay\DesignSpark\Cinemagraph_Display (PCB - Update Components Report).txt
+Report Written : Friday, July 11, 2014
+Project Path   : C:\Users\Duff\SkyDrive\Projects\CinemagraphDisplay\DesignSpark\Cinemagraph_Display.prj
+Design Path    : C:\Users\Duff\SkyDrive\Projects\CinemagraphDisplay\DesignSpark\Cinemagraph_Display.pcb
+Design Title   : 
+Created        : 6/9/2014 4:49:06 PM
+Last Saved     : 7/11/2014 1:04:02 PM
+Editing Time   : 1224 min
+Units          : mil (precision 0)
+
+
+Library Files:
+==============
+
+C:\Users\Duff\SkyDrive\Work\Boards\Libraries\Eon - Capacitors.cml
+C:\Users\Duff\SkyDrive\Work\Boards\Libraries\Eon - Diodes.cml
+C:\Users\Duff\SkyDrive\Work\Boards\Libraries\Eon - Inductors.cml
+C:\Users\Duff\SkyDrive\Work\Boards\Libraries\Eon - Logic.cml
+C:\Users\Duff\SkyDrive\Work\Boards\Libraries\Eon - Misc.cml
+C:\Users\Duff\SkyDrive\Work\Boards\Libraries\Eon - Resistors.cml
+C:\Users\Duff\SkyDrive\Projects\CinemagraphDisplay\DesignSpark\Library\tIM - misc.cml
+C:\Users\Public\Documents\DesignSpark PCB 5.1\Library\User\Sparkfun DesignSpark Lib.cml
+C:\Users\Public\Documents\DesignSpark PCB 5.1\Library\User\User.cml
+C:\Users\Public\Documents\DesignSpark PCB 6.0\Library\User\User.cml
+C:\Users\Public\Documents\DesignSpark PCB 6.0\Library\Default\DesignSpark.cml
+C:\Users\Public\Documents\DesignSpark PCB 6.0\Library\Default\ltspice.cml
+C:\Users\Public\Documents\DesignSpark PCB 6.0\Library\Default\XSpice.cml
+C:\Users\Public\Documents\DesignSpark PCB 6.0\Library\Picaxe\PICAXE_Create_Components.cml
+C:\Users\Public\Documents\DesignSpark PCB 6.0\Library\Picaxe\PICAXE_Create_PICAXE.cml
+C:\Users\Public\Documents\DesignSpark PCB 6.0\Library\3m.cml
+C:\Users\Public\Documents\DesignSpark PCB 6.0\Library\74hc.cml
+C:\Users\Public\Documents\DesignSpark PCB 6.0\Library\74hct.cml
+C:\Users\Public\Documents\DesignSpark PCB 6.0\Library\74ls.cml
+C:\Users\Public\Documents\DesignSpark PCB 6.0\Library\4000.cml
+C:\Users\Public\Documents\DesignSpark PCB 6.0\Library\actel.cml
+C:\Users\Public\Documents\DesignSpark PCB 6.0\Library\ad.cml
+C:\Users\Public\Documents\DesignSpark PCB 6.0\Library\adsp.cml
+C:\Users\Public\Documents\DesignSpark PCB 6.0\Library\altera.cml
+C:\Users\Public\Documents\DesignSpark PCB 6.0\Library\alteracyclone.cml
+C:\Users\Public\Documents\DesignSpark PCB 6.0\Library\amp.cml
+C:\Users\Public\Documents\DesignSpark PCB 6.0\Library\atmel.cml
+C:\Users\Public\Documents\DesignSpark PCB 6.0\Library\atmel8051.cml
+C:\Users\Public\Documents\DesignSpark PCB 6.0\Library\atmelarm.cml
+C:\Users\Public\Documents\DesignSpark PCB 6.0\Library\atmelatsam7.cml
+C:\Users\Public\Documents\DesignSpark PCB 6.0\Library\atmelavr.cml
+C:\Users\Public\Documents\DesignSpark PCB 6.0\Library\avx.cml
+C:\Users\Public\Documents\DesignSpark PCB 6.0\Library\capacitor.cml
+C:\Users\Public\Documents\DesignSpark PCB 6.0\Library\coldfire.cml
+C:\Users\Public\Documents\DesignSpark PCB 6.0\Library\connector.cml
+C:\Users\Public\Documents\DesignSpark PCB 6.0\Library\csm.cml
+C:\Users\Public\Documents\DesignSpark PCB 6.0\Library\cypress.cml
+C:\Users\Public\Documents\DesignSpark PCB 6.0\Library\diode.cml
+C:\Users\Public\Documents\DesignSpark PCB 6.0\Library\discrete.cml
+C:\Users\Public\Documents\DesignSpark PCB 6.0\Library\dsm.cml
+C:\Users\Public\Documents\DesignSpark PCB 6.0\Library\fairchild.cml
+C:\Users\Public\Documents\DesignSpark PCB 6.0\Library\fairchild1.cml
+C:\Users\Public\Documents\DesignSpark PCB 6.0\Library\fairchildacex.cml
+C:\Users\Public\Documents\DesignSpark PCB 6.0\Library\fci.cml
+C:\Users\Public\Documents\DesignSpark PCB 6.0\Library\fuse.cml
+C:\Users\Public\Documents\DesignSpark PCB 6.0\Library\hamlin.cml
+C:\Users\Public\Documents\DesignSpark PCB 6.0\Library\hybrid.cml
+C:\Users\Public\Documents\DesignSpark PCB 6.0\Library\infineontc116x.cml
+C:\Users\Public\Documents\DesignSpark PCB 6.0\Library\intel8051.cml
+C:\Users\Public\Documents\DesignSpark PCB 6.0\Library\ir.cml
+C:\Users\Public\Documents\DesignSpark PCB 6.0\Library\lattice.cml
+C:\Users\Public\Documents\DesignSpark PCB 6.0\Library\lt.cml
+C:\Users\Public\Documents\DesignSpark PCB 6.0\Library\ltspice.cml
+C:\Users\Public\Documents\DesignSpark PCB 6.0\Library\luminarycortex.cml
+C:\Users\Public\Documents\DesignSpark PCB 6.0\Library\maxim.cml
+C:\Users\Public\Documents\DesignSpark PCB 6.0\Library\maxim8051.cml
+C:\Users\Public\Documents\DesignSpark PCB 6.0\Library\maximmp.cml
+C:\Users\Public\Documents\DesignSpark PCB 6.0\Library\mc68hc.cml
+C:\Users\Public\Documents\DesignSpark PCB 6.0\Library\microchip.cml
+C:\Users\Public\Documents\DesignSpark PCB 6.0\Library\microchippic.cml
+C:\Users\Public\Documents\DesignSpark PCB 6.0\Library\molex.cml
+C:\Users\Public\Documents\DesignSpark PCB 6.0\Library\msp430.cml
+C:\Users\Public\Documents\DesignSpark PCB 6.0\Library\murata.cml
+C:\Users\Public\Documents\DesignSpark PCB 6.0\Library\natsemi.cml
+C:\Users\Public\Documents\DesignSpark PCB 6.0\Library\nxp-lpc32x0.cml
+C:\Users\Public\Documents\DesignSpark PCB 6.0\Library\omron.cml
+C:\Users\Public\Documents\DesignSpark PCB 6.0\Library\onsemi.cml
+C:\Users\Public\Documents\DesignSpark PCB 6.0\Library\opamps.cml
+C:\Users\Public\Documents\DesignSpark PCB 6.0\Library\pcb.cml
+C:\Users\Public\Documents\DesignSpark PCB 6.0\Library\philips80c51.cml
+C:\Users\Public\Documents\DesignSpark PCB 6.0\Library\philipsarm.cml
+C:\Users\Public\Documents\DesignSpark PCB 6.0\Library\philipsp89.cml
+C:\Users\Public\Documents\DesignSpark PCB 6.0\Library\philipsxa.cml
+C:\Users\Public\Documents\DesignSpark PCB 6.0\Library\picaxe.cml
+C:\Users\Public\Documents\DesignSpark PCB 6.0\Library\powerpc.cml
+C:\Users\Public\Documents\DesignSpark PCB 6.0\Library\qbsm.cml
+C:\Users\Public\Documents\DesignSpark PCB 6.0\Library\qcsm.cml
+C:\Users\Public\Documents\DesignSpark PCB 6.0\Library\qsm.cml
+C:\Users\Public\Documents\DesignSpark PCB 6.0\Library\quicklogic.cml
+C:\Users\Public\Documents\DesignSpark PCB 6.0\Library\relay.cml
+C:\Users\Public\Documents\DesignSpark PCB 6.0\Library\renesasr8c.cml
+C:\Users\Public\Documents\DesignSpark PCB 6.0\Library\resistor.cml
+C:\Users\Public\Documents\DesignSpark PCB 6.0\Library\rfmicro.cml
+C:\Users\Public\Documents\DesignSpark PCB 6.0\Library\schema.cml
+C:\Users\Public\Documents\DesignSpark PCB 6.0\Library\sm.cml
+C:\Users\Public\Documents\DesignSpark PCB 6.0\Library\sonycx.cml
+C:\Users\Public\Documents\DesignSpark PCB 6.0\Library\st-arm7.cml
+C:\Users\Public\Documents\DesignSpark PCB 6.0\Library\st.cml
+C:\Users\Public\Documents\DesignSpark PCB 6.0\Library\testpoint.cml
+C:\Users\Public\Documents\DesignSpark PCB 6.0\Library\ti.cml
+C:\Users\Public\Documents\DesignSpark PCB 6.0\Library\tms320.cml
+C:\Users\Public\Documents\DesignSpark PCB 6.0\Library\tms470.cml
+C:\Users\Public\Documents\DesignSpark PCB 6.0\Library\toshibatmp86.cml
+C:\Users\Public\Documents\DesignSpark PCB 6.0\Library\trans.cml
+C:\Users\Public\Documents\DesignSpark PCB 6.0\Library\transistor.cml
+C:\Users\Public\Documents\DesignSpark PCB 6.0\Library\vishay.cml
+C:\Users\Public\Documents\DesignSpark PCB 6.0\Library\xilinx.cml
+C:\Users\Public\Documents\DesignSpark PCB 6.0\Library\zilog.cml
+
+Selected items to be updated:
+=============================
+
+
+Components:
+===========
+
+    (None) 
+
+Symbols:
+========
+
+    (None) 
+
+Additional items to be updated:
+===============================
+
+
+Components:
+===========
+
+    (None) 
+
+Symbols:
+========
+
+    (None) 
+
+Selected items not to be updated  (Same version as library)
+===========================================================
+
+
+Components:
+===========
+
+Varistor  C:\Users\Duff\SkyDrive\Projects\CinemagraphDisplay\DesignSpark\Library\tIM - misc.cml
+
+Symbols:
+========
+
+0603  C:\Users\Duff\SkyDrive\Work\Boards\Libraries\Eon - Resistors.psl
+
+
+
+Update Components Summary
+=========================
+
+Updating single component.
+Update component values
+Keep component value positions
+(Remove pad style exceptions on updated components)
+
+	Selected for update:			   1  Component 
+						   1  Symbol 
+
+	Selected items to be updated:		   0  Components
+						   0  Symbols
+
+	Additional items to be updated:		   0  Components
+						   0  Symbols
+
+	Selected items NOT to be updated:	   1  Component 
+	  (Same version as library)		   1  Symbol 
+
+
+End Of Report.

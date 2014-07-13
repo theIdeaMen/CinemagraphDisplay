@@ -21,11 +21,11 @@ NFET||3
 Off Page||1
 On Page||1
 Oscillator - 4 pin||4
-PB SPST-NO||4
 R1||2
 R1V||3
 S1D13781||100
 Schottky||2
-USB||4
+Tactile Switch||5
+USB||5
 Varistor||2
 Zener||2

@@ -2,14 +2,34 @@ Pour Copper Report
 ------------------
 
 Report File    : C:\Users\Duff\SkyDrive\Projects\CinemagraphDisplay\DesignSpark\Cinemagraph_Display (PCB - Pour Copper Report).txt
-Report Written : Wednesday, July 02, 2014
+Report Written : Sunday, July 13, 2014
 Project Path   : C:\Users\Duff\SkyDrive\Projects\CinemagraphDisplay\DesignSpark\Cinemagraph_Display.prj
 Design Path    : C:\Users\Duff\SkyDrive\Projects\CinemagraphDisplay\DesignSpark\Cinemagraph_Display.pcb
 Design Title   : 
 Created        : 6/9/2014 4:49:06 PM
-Last Saved     : 7/2/2014 4:17:24 PM
-Editing Time   : 1109 min
+Last Saved     : 7/13/2014 6:19:53 PM
+Editing Time   : 1551 min
 Units          : mil (precision 0)
 
+C18.2 at 9409,9442 has no thermal spokes
+U1.2 at 8960,9786 has no thermal spokes
+U1.46 at 9303,10101 has no thermal spokes
+U1.60 at 9002,9975 has no thermal spokes
+U7.9 at 9713,10132 has no thermal spokes
+U7.7 at 9681,10132 has no thermal spokes
+U6.4 at 9954,9442 has no thermal spokes
+U6.12 at 9954,9285 has no thermal spokes
+U6.14 at 9954,9245 has no thermal spokes
+U6.23 at 9954,9068 has no thermal spokes
+U6.38 at 10265,8954 has no thermal spokes
+U6.40 at 10305,8954 has no thermal spokes
+U6.48 at 10462,8954 has no thermal spokes
+U6.57 at 10576,9147 has no thermal spokes
+U6.67 at 10576,9344 has no thermal spokes
+U6.80 at 10422,9576 has no thermal spokes
+U6.90 at 10225,9576 has no thermal spokes
+U6.96 at 10107,9576 has no thermal spokes
+U6.98 at 10068,9576 has no thermal spokes
+U6.99 at 10048,9576 has no thermal spokes
 
 End Of Report.

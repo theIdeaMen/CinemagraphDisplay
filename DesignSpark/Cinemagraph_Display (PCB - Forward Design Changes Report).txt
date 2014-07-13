@@ -2,18 +2,18 @@ Forward Design Changes Report
 -----------------------------
 
 Report File    : C:\Users\Duff\SkyDrive\Projects\CinemagraphDisplay\DesignSpark\Cinemagraph_Display (PCB - Forward Design Changes Report).txt
-Report Written : Wednesday, July 02, 2014
+Report Written : Sunday, July 13, 2014
 Project Path   : C:\Users\Duff\SkyDrive\Projects\CinemagraphDisplay\DesignSpark\Cinemagraph_Display.prj
 Design Path    : C:\Users\Duff\SkyDrive\Projects\CinemagraphDisplay\DesignSpark\Cinemagraph_Display.pcb
 Design Title   : 
 Created        : 6/9/2014 4:49:06 PM
-Last Saved     : 7/2/2014 4:08:29 PM
-Editing Time   : 1094 min
+Last Saved     : 7/13/2014 6:29:58 PM
+Editing Time   : 1553 min
 Units          : mil (precision 0)
 
-Disconnected pin "J6-5" from net "TDO".
+Ignoring instance TM1 ("tIM Logo") as it is defined for PCB only (no Schematic information).
 
-Connected pin "J6-5" to net "GND".
+The designs are the same, so no design changes to forward.
 
 
 End Of Report.
